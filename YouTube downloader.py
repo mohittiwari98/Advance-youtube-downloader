@@ -1,18 +1,3 @@
-# =================== PASSED ===========================
-
-# Fix Resolution Software Youtube Video Downloader
-
-# Add someone variabel in video downloader 
-
-# And pop up show messagebox download started
-
-# ======================================================
-
-
-
-
-
-
 
 # ================= Importing Modules ===================
 
