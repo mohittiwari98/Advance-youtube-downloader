@@ -1,4 +1,10 @@
 # Advance-youtube-downloader
+![](https://img.shields.io/badge/Programming_Language-Python-cyan.svg)
+![](https://img.shields.io/badge/Tool_Used-Tkinter-orange.svg)
+![](https://img.shields.io/badge/Python_Version-3.7-blue.svg)
+![](https://img.shields.io/badge/Application-Visualization-lemon.svg)
+![](https://img.shields.io/badge/Status-Complete-green.svg)
+
 # YouTube Downloader
 
 A simple GUI-based YouTube video and playlist downloader built using Python with `tkinter` for the interface, `pytube` for downloading, and additional libraries for enhanced functionality.
